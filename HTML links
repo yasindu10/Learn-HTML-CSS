@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML links</title>
+</head>
+<body>
+	
+
+<!-- html links -->
+
+<!-- <a href="url">Lint text</a> -->
+
+<!-- ex -->
+<a href="https://www.w3schools.com/">W3Schools</a>
+
+</body>
+</html>
