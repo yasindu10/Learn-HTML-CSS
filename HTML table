@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>HTML table</title>
+	<!-- css -->
+	<style>
+		
+		table, th, td {
+  			border: 1px solid black;
+		}
+
+	</style>
+</head>
+<body>
+	
+
+<table style="width:100%">
+	<tr>
+		<th>Name</th>
+		<th>Age</th>
+		<th>marks</th>
+	</tr>
+	<tr>
+		<td>Yasindu</td>
+		<td>13</td>
+		<td>95</td>
+	</tr>
+    <tr>
+    	<td>Rakindu</td>
+    	<td>13</td>
+    	<td>80</td>
+    </tr>
+     <tr>
+     	<td>Malindu</td>
+     	<td>13</td>
+     	<td>60</td>
+     </tr>
+</table>
+
+
+
+</body>
+</html>
