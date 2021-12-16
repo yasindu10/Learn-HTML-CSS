@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Text Formatting</title>
+</head>
+<body>
+	
+
+<b>Bold text</b>
+<br><br>
+
+<i>Italic text</i>
+<br><br>
+<mark>Marked text</mark>
+<br><br>
+
+<del>Deleted text</del>
+<br><br>
+
+<small>Smaller text</small>
+<br><br>
+
+<sup>Superscript text</sup>
+<br><br>
+
+<sub>Subscript text</sub>
+
+</body>
+</html>
