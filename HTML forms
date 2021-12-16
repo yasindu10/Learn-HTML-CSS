@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML forms</title>
+</head>
+<body>
+	
+
+
+<form>
+	<label for="">User name</label>
+	<br>
+	<input type="text" required placeholder="Enter User name">
+	<br><br>
+	<label for="">Password</label>
+	<br>
+	<input type="password" required placeholder="Enter Password">
+	<br><br>
+	<input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>
