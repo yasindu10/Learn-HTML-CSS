@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML images</title>
+</head>
+<body>
+	
+ <!-- image -->
+ <img src="url" alt="alternatetext"> 
+
+</body>
+</html>
